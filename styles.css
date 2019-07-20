@@ -25,6 +25,10 @@ a:hover {
   color: #6633ff;
 }
 
+small {
+  font-size: .2em;
+}
+
 /* Section Styles */
 
 .responsive {
