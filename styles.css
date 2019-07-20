@@ -12,10 +12,6 @@ body {
   background: #f7f5f0;
 }
 
-img {
-  background: #ccc;
-}
-
 h2{
   color: rgb(5, 75, 145);
 }
@@ -87,6 +83,7 @@ header .profile-image {
   border-radius: 50%;
   border: 3px solid rgb(5, 75, 145);
   transition: all .5s;
+  background: #ccc;
 }
 header .profile-image:hover {
   transform: scale(1.5) rotate(10deg);
