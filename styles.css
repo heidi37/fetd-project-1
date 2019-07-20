@@ -31,6 +31,11 @@ a:hover {
 
 /* Section Styles */
 
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
 .main-nav {
   width: 100%;
   background: #797775a9;
@@ -60,7 +65,7 @@ a:hover {
   transition: all .5s;
 }
 .nav a:hover {
-  color: white
+  color: rgb(5, 75, 145);
 }
 
 header {
@@ -84,7 +89,7 @@ header .profile-image {
   transition: all .5s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
+  transform: scale(1.5) rotate(10deg);
 }
 .tag {
   /* background-color: #efefef; */
